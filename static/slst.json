@@ -10401,19 +10401,19 @@
                 {
                     "ratingClass": 0,
                     "chartDesigner": "Nitro",
-                    "jacketDesigner": "terry \u0026 nakanome",
+                    "jacketDesigner": "terry & nakanome",
                     "rating": 2
                 },
                 {
                     "ratingClass": 1,
                     "chartDesigner": "Nitro",
-                    "jacketDesigner": "terry \u0026 nakanome",
+                    "jacketDesigner": "terry & nakanome",
                     "rating": 6
                 },
                 {
                     "ratingClass": 2,
                     "chartDesigner": "Nitro",
-                    "jacketDesigner": "terry \u0026 nakanome",
+                    "jacketDesigner": "terry & nakanome",
                     "rating": 8
                 }
             ]
@@ -11322,7 +11322,7 @@
                 },
                 {
                     "ratingClass": 3,
-                    "chartDesigner": "/ERROR/ 絶滅",
+                    "chartDesigner": "\/ERROR\/ 絶滅",
                     "jacketDesigner": "HakureiNeko",
                     "jacketOverride": true,
                     "rating": 10,
@@ -13079,7 +13079,7 @@
             "title_localized": {
                 "en": "Far Away Light"
             },
-            "artist": "technoplanet feat. はるの \u0026 黒沢ダイスケ",
+            "artist": "technoplanet feat. はるの & 黒沢ダイスケ",
             "search_title": {
                 "ja": [
                     "ふぁーあうぇいらいと",
@@ -13698,7 +13698,7 @@
                 "en": "False Embellishment",
                 "ja": "狂言綺語"
             },
-            "artist": "影虎。 \u0026 ikaruga_nex",
+            "artist": "影虎。 & ikaruga_nex",
             "search_title": {
                 "ja": [
                     "きょうげんきご"
@@ -14200,7 +14200,7 @@
             "title_localized": {
                 "en": "with U"
             },
-            "artist": "t+pazolite \u0026 Massive New Krew feat. リリィ(CV:青木志貴)",
+            "artist": "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)",
             "search_title": {
                 "ja": [
                     "うぃずゆー"
@@ -16471,21 +16471,21 @@
             "difficulties": [
                 {
                     "ratingClass": 0,
-                    "chartDesigner": "antymis \u003Cprototype\u003E",
+                    "chartDesigner": "antymis <prototype>",
                     "jacketDesigner": "",
                     "jacketOverride": true,
                     "rating": 3
                 },
                 {
                     "ratingClass": 1,
-                    "chartDesigner": "antymis \u003Cprototype\u003E",
+                    "chartDesigner": "antymis <prototype>",
                     "jacketDesigner": "",
                     "jacketOverride": true,
                     "rating": 7
                 },
                 {
                     "ratingClass": 2,
-                    "chartDesigner": "antymis \u003Cprototype\u003E",
+                    "chartDesigner": "antymis <prototype>",
                     "jacketDesigner": "",
                     "rating": 9,
                     "ratingPlus": true
@@ -16605,19 +16605,19 @@
                 {
                     "ratingClass": 0,
                     "chartDesigner": "Translated by én",
-                    "jacketDesigner": "九鳥ぱんや \u0026 t+pazolite",
+                    "jacketDesigner": "九鳥ぱんや & t+pazolite",
                     "rating": 2
                 },
                 {
                     "ratingClass": 1,
                     "chartDesigner": "Translated by én",
-                    "jacketDesigner": "九鳥ぱんや \u0026 t+pazolite",
+                    "jacketDesigner": "九鳥ぱんや & t+pazolite",
                     "rating": 6
                 },
                 {
                     "ratingClass": 2,
                     "chartDesigner": "Translated by én",
-                    "jacketDesigner": "九鳥ぱんや \u0026 t+pazolite",
+                    "jacketDesigner": "九鳥ぱんや & t+pazolite",
                     "rating": 9
                 }
             ]
@@ -16804,7 +16804,7 @@
             "title_localized": {
                 "en": "Altair (feat. *spiLa*)"
             },
-            "artist": "kamome sano \u0026 you",
+            "artist": "kamome sano & you",
             "search_title": {
                 "ja": [
                     "あるたいる"
@@ -17169,14 +17169,8 @@
                 }
             ],
             "additional_files": [
-                {
-                    "file_name": "video.mp4",
-                    "requirement": "required"
-                },
-                {
-                    "file_name": "video_audio.ogg",
-                    "requirement": "required"
-                }
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -17252,14 +17246,8 @@
                 }
             ],
             "additional_files": [
-                {
-                    "file_name": "video.mp4",
-                    "requirement": "required"
-                },
-                {
-                    "file_name": "video_audio.ogg",
-                    "requirement": "required"
-                }
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -17330,14 +17318,8 @@
                 }
             ],
             "additional_files": [
-                {
-                    "file_name": "video.mp4",
-                    "requirement": "required"
-                },
-                {
-                    "file_name": "video_audio.ogg",
-                    "requirement": "required"
-                }
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -17411,14 +17393,8 @@
                 }
             ],
             "additional_files": [
-                {
-                    "file_name": "video.mp4",
-                    "requirement": "required"
-                },
-                {
-                    "file_name": "video_audio.ogg",
-                    "requirement": "required"
-                }
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -17498,14 +17474,8 @@
                 }
             ],
             "additional_files": [
-                {
-                    "file_name": "video.mp4",
-                    "requirement": "required"
-                },
-                {
-                    "file_name": "video_audio.ogg",
-                    "requirement": "required"
-                }
+                {"file_name": "video.mp4", "requirement": "required"},
+                {"file_name": "video_audio.ogg", "requirement": "required"}
             ]
         },
         {
@@ -18815,20 +18785,20 @@
             "difficulties": [
                 {
                     "ratingClass": 0,
-                    "chartDesigner": "NITR\u003CO\u003E",
+                    "chartDesigner": "NITR<O>",
                     "jacketDesigner": "トロ３",
                     "rating": 4
                 },
                 {
                     "ratingClass": 1,
-                    "chartDesigner": "NITR\u003CO\u003E",
+                    "chartDesigner": "NITR<O>",
                     "jacketDesigner": "トロ３",
                     "rating": 7,
                     "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
-                    "chartDesigner": "NITR\u003CO\u003E",
+                    "chartDesigner": "NITR<O>",
                     "jacketDesigner": "トロ３",
                     "rating": 10
                 }
@@ -19607,20 +19577,20 @@
             "difficulties": [
                 {
                     "ratingClass": 0,
-                    "chartDesigner": "夜浪 \u003C-\u003E",
+                    "chartDesigner": "夜浪 <->",
                     "jacketDesigner": "",
                     "rating": 4
                 },
                 {
                     "ratingClass": 1,
-                    "chartDesigner": "夜浪 \u003C-\u003E",
+                    "chartDesigner": "夜浪 <->",
                     "jacketDesigner": "",
                     "rating": 7,
                     "ratingPlus": true
                 },
                 {
                     "ratingClass": 2,
-                    "chartDesigner": "夜浪 \u003C-\u003E",
+                    "chartDesigner": "夜浪 <->",
                     "jacketDesigner": "",
                     "rating": 10,
                     "ratingPlus": true
@@ -20241,7 +20211,7 @@
                 }
             ]
         },
-        {
+		{
             "idx": 324,
             "id": "bulletwaiting",
             "title_localized": {
@@ -21464,7 +21434,7 @@
             "id": "tothefurthestdream",
             "title_localized": {
                 "en": "To the Furthest Dream",
-                "ja": "彼方の夢へと"
+				"ja": "彼方の夢へと"
             },
             "artist": "ii/night feat. 綺良雪",
             "search_title": {
@@ -22076,14 +22046,8 @@
                 }
             ],
             "additional_files": [
-                {
-                    "file_name": "video_720.mp4",
-                    "requirement": "low_res"
-                },
-                {
-                    "file_name": "video_1080.mp4",
-                    "requirement": "hi_res"
-                }
+                {"file_name": "video_720.mp4", "requirement": "low_res"},
+                {"file_name": "video_1080.mp4", "requirement": "hi_res"}
             ]
         },
         {
@@ -22092,7 +22056,7 @@
             "title_localized": {
                 "en": "FANTA5Y"
             },
-            "artist": "Moon Jelly \u0026 YUKIYANAGI",
+            "artist": "Moon Jelly & YUKIYANAGI",
             "search_title": {
                 "en": [
                     "fantasy"
@@ -22398,7 +22362,7 @@
             "title_localized": {
                 "en": "Ouvertüre"
             },
-            "artist": "USAO \u0026 DJ Genki feat. ルーン(CV:河瀬茉希)",
+            "artist": "USAO & DJ Genki feat. ルーン(CV:河瀬茉希)",
             "search_title": {
                 "en": [
                     "Ouverture"
@@ -22657,7 +22621,7 @@
             "idx": 362,
             "id": "aloneandlorn",
             "title_localized": {
-                "en": "Alone \u0026 Lorn",
+                "en": "Alone & Lorn",
                 "ja": "アローンアンドローン"
             },
             "artist": "Ponchi♪ feat.はぁち",
@@ -22708,7 +22672,7 @@
                 },
                 {
                     "ratingClass": 2,
-                    "chartDesigner": "én \u0026 KLMNOP",
+                    "chartDesigner": "én & KLMNOP",
                     "jacketDesigner": "のり恋",
                     "rating": 9
                 }
@@ -23197,7 +23161,7 @@
                     "로이"
                 ]
             },
-            "source_copyright": "©Drossel/Studio",
+            "source_copyright": "©Drossel\/Studio",
             "world_unlock": false,
             "date": 1706140808,
             "version": "5.3",
@@ -23489,7 +23453,7 @@
             "title_localized": {
                 "en": "Masquerade Legion"
             },
-            "artist": "Srav3R \u0026 DJ Noriken",
+            "artist": "Srav3R & DJ Noriken",
             "search_title": {
                 "ja": [
                     "ますかれーどれぎおん"
@@ -23549,7 +23513,7 @@
             "id": "kyorenromance",
             "title_localized": {
                 "en": "KYOREN ROMANCE",
-                "ja": "狂恋ROMANCE"
+				"ja": "狂恋ROMANCE"
             },
             "artist": "REDALiCE vs DJ Myosuke feat. DELUTAYA",
             "search_title": {
@@ -23743,7 +23707,7 @@
             "title_localized": {
                 "en": "〇、"
             },
-            "artist": "Kolaa \u0026 熊子",
+            "artist": "Kolaa & 熊子",
             "search_title": {
                 "en": [
                     "ichirin"
@@ -23781,19 +23745,19 @@
                 {
                     "ratingClass": 0,
                     "chartDesigner": "CERiNG、",
-                    "jacketDesigner": "毛腿猪兔子 \u0026 Kolaa",
+                    "jacketDesigner": "毛腿猪兔子 & Kolaa",
                     "rating": 2
                 },
                 {
                     "ratingClass": 1,
                     "chartDesigner": "CERiNG、",
-                    "jacketDesigner": "毛腿猪兔子 \u0026 Kolaa",
+                    "jacketDesigner": "毛腿猪兔子 & Kolaa",
                     "rating": 6
                 },
                 {
                     "ratingClass": 2,
                     "chartDesigner": "CERiNG、",
-                    "jacketDesigner": "毛腿猪兔子 \u0026 Kolaa",
+                    "jacketDesigner": "毛腿猪兔子 & Kolaa",
                     "rating": 9
                 }
             ]
@@ -24055,6 +24019,30 @@
                 "en": "ultradiaxon-N3"
             },
             "artist": "nitro (lowiro)",
+            "search_title": {
+                "ja": [
+                    "うるとらでぃあくそんえぬすりー",
+                    "うるとらじあくそんえぬすりー",
+                    "うるとらだいあくそんえぬすりー",
+                    "あるとれじあくそんえぬすりー",
+                    "あるとれでぃあくそんえぬすりー"
+                ],
+                "ko": [
+                    "울트라디악손 엔쓰리",
+                    "울트라다이악손 엔쓰리",
+                    "울트레이디악손 엔쓰리",
+                    "울트레이디악손 엔쓰리"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "にとろ",
+                    "ないとろ"
+                ],
+                "ko": [
+                    "니트로"
+                ]
+            },
             "bpm": "150",
             "bpm_base": 150,
             "set": "single",
@@ -24086,6 +24074,323 @@
                     "chartDesigner": "Nitro",
                     "jacketDesigner": "MiyU",
                     "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 385,
+            "id": "leaveallbehind",
+            "title_localized": {
+                "en": "Leave All Behind"
+            },
+            "artist": "rider",
+            "search_title": {
+                "ja": [
+                    "りーぶおーるびはいんど",
+                    "りーゔおーるびはいんど"
+                ],
+                "ko": [
+                    "리브 올 비하인드"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "らいだー"
+                ],
+                "ko": [
+                    "라이더"
+                ]
+            },
+            "bpm": "150",
+            "bpm_base": 150,
+            "set": "extend_3",
+            "purchase": "extend_3",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "prelude_conflict",
+            "bg_inverse": "prelude_light",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1714003200,
+            "source_localized": {
+                "en": "Phigros"
+            },
+            "source_copyright": "© Pigeon Games",
+            "version": "5.6",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "NoteRE",
+                    "rating": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "NoteRE",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Luxance",
+                    "jacketDesigner": "NoteRE",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 386,
+            "id": "distortedfate",
+            "title_localized": {
+                "en": "Distorted Fate"
+            },
+            "artist": "Sakuzyo",
+            "search_title": {
+                "ja": [
+                    "でぃすとーてっどふぇいと"
+                ],
+                "ko": [
+                    "디스토디드 페이트"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "さくじょ"
+                ],
+                "ko": [
+                    "사쿠죠"
+                ]
+            },
+            "bpm": "150",
+            "bpm_base": 200,
+            "set": "single",
+            "purchase": "distortedfate",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 1,
+            "bg": "vs_conflict",
+            "bg_inverse": "vs_light",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1714003201,
+            "source_localized": {
+                "en": "Phigros"
+            },
+            "source_copyright": "© Pigeon Games",
+            "version": "5.6",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Toaster",
+                    "jacketDesigner": "knife美工刀",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Toaster",
+                    "jacketDesigner": "knife美工刀",
+                    "rating": 7,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Toaster",
+                    "jacketDesigner": "knife美工刀",
+                    "rating": 9
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "TOASTER DATA PATCHER",
+                    "jacketDesigner": "knife美工刀",
+                    "rating": 10,
+                    "ratingPlus": true
+                }
+            ]
+        },
+        {
+            "idx": 387,
+            "id": "floatingworld",
+            "title_localized": {
+                "en": "Floating World"
+            },
+            "artist": "baker feat. botan",
+            "search_title": {
+                "ja": [
+                    "ふろーてぃんぐわーるど"
+                ],
+                "ko": [
+                    "플로팅 월드"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "べいかー",
+                    "ぼたん"
+                ],
+                "ko": [
+                    "베이커",
+                    "보탄"
+                ]
+            },
+            "bpm": "174",
+            "bpm_base": 174,
+            "set": "single",
+            "purchase": "floatingworld",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "nijuusei2_light",
+            "bg_inverse": "nijuusei2_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1714003202,
+            "version": "5.6",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "チェリ藻",
+                    "rating": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "チェリ藻",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "én",
+                    "jacketDesigner": "チェリ藻",
+                    "rating": 9
+                }
+            ]
+        },
+        {
+            "idx": 388,
+            "id": "chromafill",
+            "title_localized": {
+                "en": "Chromafill"
+            },
+            "artist": "ていぬ",
+            "search_title": {
+                "ja": [
+                    "くろまふぃる",
+                    "くろーまふぃる"
+                ],
+                "ko": [
+                    "크로마필"
+                ]
+            },
+            "search_artist": {
+                "en": [
+                    "teinu"
+                ],
+                "ko": [
+                    "테이누"
+                ]
+            },
+            "bpm": "179",
+            "bpm_base": 179,
+            "set": "single",
+            "purchase": "chromafill",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "observer_light",
+            "bg_inverse": "observer_conflict",
+            "remote_dl": true,
+            "world_unlock": false,
+            "date": 1714003203,
+            "version": "5.6",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "exschwasion -彩色-",
+                    "jacketDesigner": "イチゼンリュウ",
+                    "rating": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "exschwasion -彩色-",
+                    "jacketDesigner": "イチゼンリュウ",
+                    "rating": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "exschwasion -彩色-",
+                    "jacketDesigner": "イチゼンリュウ",
+                    "rating": 10
+                }
+            ]
+        },
+        {
+            "idx": 389,
+            "id": "desive",
+            "title_localized": {
+                "en": "Désive",
+                "ko_dialog": "Desive"
+            },
+            "artist": "MisomyL",
+            "search_title": {
+                "en": [
+                    "desive"
+                ],
+                "ja": [
+                    "でぃざいゔ"
+                ],
+                "ko": [
+                    "디자이브"
+                ]
+            },
+            "search_artist": {
+                "ja": [
+                    "みそみぃる"
+                ],
+                "ko": [
+                    "미소밀"
+                ]
+            },
+            "bpm": "180-230",
+            "bpm_base": 230,
+            "set": "single",
+            "purchase": "",
+            "audioPreview": 0,
+            "audioPreviewEnd": 0,
+            "side": 0,
+            "bg": "rei",
+            "bg_inverse": "yugamu",
+            "remote_dl": true,
+            "world_unlock": true,
+            "date": 1714003204,
+            "version": "5.6",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Yearning Call",
+                    "jacketDesigner": "そゐち",
+                    "rating": 5
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Yearning Call",
+                    "jacketDesigner": "そゐち",
+                    "rating": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Yearning Call",
+                    "jacketDesigner": "そゐち",
+                    "rating": 9,
+                    "ratingPlus": true
+                },
+                {
+                    "ratingClass": 4,
+                    "chartDesigner": "Yearning Call",
+                    "jacketDesigner": "そゐち",
+                    "rating": 10,
+                    "ratingPlus": true
                 }
             ]
         }
